@@ -1,0 +1,15 @@
+1. 显示分支
+
+git branch -a 
+
+2. 创建新分支
+
+git branch demo3
+
+3. 换到demo3
+
+git checkout demo3
+
+4. 之后就可以编辑代码， 所有的更改， 都是demo3分支上的更改， main 不受影响
+
+5. 
