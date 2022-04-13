@@ -72,7 +72,7 @@ output:
 
 ## R软件版本
 
-![R的版本](images/versions_R.jpg){ width=85% }
+![R的版本](images/versions2.jpg){ width=40% }
 
 ## R程序包的版本
 
@@ -133,7 +133,7 @@ x,y,z分别顺序增加
 
 ## git的基本操作
 
-![鼠标右键打开git](images/git_bash.jpg){ width=40% }
+![鼠标右键打开git](images/gitbash.jpg){ width=40% }
 
 ## git的查看代码的状态（修改前）
 
